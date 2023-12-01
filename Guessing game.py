@@ -59,5 +59,3 @@ while True:
     elif difficulty == "hard":
         hard_guess = int(input("Make a guess: "))
         hard_guesses = hard(hard_guess, hard_guesses)
-
-# def hard():
